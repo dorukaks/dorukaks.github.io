@@ -1,157 +1,184 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Doruk Aksoy",
+    "label": "Ph.D. Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "*myfirstname*[at]umich[dot]edu",
+    "summary": "Ph.D. Candidate in Aerospace Engineering and Scientific Computing at the University of Michigan, specializing in tensor decomposition algorithms and scientific machine learning. Expertise in reducing computational costs by up to 95% through algorithm development. Skilled in managing high-dimensional data, solving complex inverse problems, and applying Bayesian approaches in computational science.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "2025 FXB Bldg, 1320 Beal Ave",
+      "postalCode": "MI 48109",
+      "city": "Ann Arbor",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Michigan"
+    }
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Michigan, Ann Arbor, MI",
+      "location": "Ann Arbor, MI",
+      "url": "https://aero.engin.umich.edu",
+      "area": "Aerospace Engineering and Scientific Computing",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-08",
+      "endDate": "",
+      "courses": ["Large Language Models", "Numerical Linear Algebra", "Methods and Practice of Scientific Computing"]
+    },
+    {
+      "institution": "University of Michigan, Ann Arbor, MI",
+      "location": "Ann Arbor, MI",
+      "url": "https://me.engin.umich.edu",
+      "area": "Mechanical Engineering",
+      "studyType": "MSE",
+      "startDate": "2018-08",
+      "endDate": "2024-12",
+      "courses": ["Model Predictive Control", "Computational Data Science and Machine Learning", "Inference, Estimation, and Learning"]
+    },
+    {
+      "institution": "Bogazici University, Istanbul, Turkey",
+      "location": "Istanbul, Turkey",
+      "url": "https://me.boun.edu.tr",
+      "area": "Mechanical Engineering",
+      "studyType": "BSc",
+      "startDate": "2013-09",
+      "endDate": "2018-06"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "MICDE 2023-2024 Graduate Fellow",
+      "date": "2023-09-01",
+      "awarder": "Michigan Institute of Computational Discovery in Engineerings",
+      "url": "https://micde.umich.edu/member/doruk-aksoy/"
+    },
+    {
+      "title": "Best Reproducibility Award",
+      "date": "2023-11-14",
+      "awarder": "Michigan Institute of Data Science",
+      "url": "https://midas.umich.edu/events/midas-summit-2023/"
+    },
+    {
+      "title": "2023 MICDE Annual Symposium Poster Competition runner up",
+      "date": "2023-03-24",
+      "awarder": "Michigan Institute of Computational Discovery in Engineerings",
+      "url": "https://micde.umich.edu/news-events/annual-symposia/2023-symposium/"
     }
   ],
-  "certificates": [
+  "work": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Department of Aerospace Engineering, University of Michigan",
+      "location": "Ann Arbor, MI",
+      "position": "Graduate Student Research Assistant",
+      "startDate": "2020-01-01",
+      "endDate": "",
+      "highlights": ["Leading a cross-university research team of graduate and undergraduate students to develop a framework for behavioral cloning using multi-modal data", "Developed and implemented tensor decomposition algorithms for scientific machine learning", "Mentored 2 master’s students and 1 undergraduate student in research setting", "Presented research findings at 5+ peer reviewed papers and 10+ international conferences"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Generative Modeling Using Tensor-Network Embeddings",
+      "startDate": "2024-11",
+      "endDate": "",
+      "highlights": ["Working on creating an architecture to generate new gameplay sequences using tensor network embeddings of ATARI games.", "Studying state-of-the-art generative models for video data and comparing them with tensor network-based approaches."]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Bayesian Optimal Experimental Design in Tensor-Network Reduced Spaces",
+      "startDate": "2023-02",
+      "endDate": "",
+      "highlights": ["Developed a framework for large-scale, high-dimensional data using tensor decompositions", "Enhanced measurement accuracy by up to 18% through optimal sensor placement"]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Incremental Hierarchical Tucker Decomposition",
+      "startDate": "2023-01",
+      "endDate": "2024-09",
+      "highlights": ["Developed the first incremental algorithm for hierarchical Tucker decomposition in the literature", "Achieved up to 60% reduction in computational cost compared to existing methods", "Authored a manuscript detailing the algorithm for peer-reviewed journal submission", "Implemented the algorithm as high-performance scientific computing software"]
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Incremental Tensor Train Decomposition",
+      "startDate": "2021-08",
+      "endDate": "2023-01",
+      "highlights": ["Developed a state-of-the-art algorithm for converting tensor streams into tensor train format", "Reduced computation time by 95% and increased compression ratio by 57× compared to existing methods", "Achieved up to 13x speedup in end-to-end training time for deep learning against AE/VAE based architectures", "Released the algorithm as an open-source software package at github.com/dorukaks/TT-ICE"],
+      "url": "github.com/dorukaks/TT-ICE"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Neural Network Inverse Design for Self-Oscillating Gels",
+      "startDate": "2020-01",
+      "endDate": "2020-12",
+      "highlights": ["Designed a neural network to predict physical and motion parameters of a PDE-driven chaotic system", "Achieved over 99% accuracy for discrete parameters and 98% for continuous parameters"]
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Process Parameter Control for Fused Deposition Modeling",
+      "startDate": "2019-01",
+      "endDate": "2019-09",
+      "highlights": ["Engineered and built a cost-effective bead height measurement system for Ultimaker 3D printers", "Established a model linking process parameters to bead cross-sectional geometry", "Demonstrated up to 85% reduction in bead height error through experimental testing", "Presented findings at the 2020 American Control Conference"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Incremental Hierarchical Tucker Decomposition",
+      "publisher": "arXiv (submitted to JMLR)",
+      "releaseDate": "2024-12-21",
+      "url": "https://arxiv.org/abs/2412.16544",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "An Incremental Tensor Train Decomposition Algorithm",
+      "publisher": "SIAM Journal on Scientific Computing (SISC)",
+      "releaseDate": "2024-03-26",
+      "url": "https://epubs.siam.org/doi/abs/10.1137/22M1537734",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Low-Rank Tensor Network Encodings for video-to-action behavioral cloning",
+      "publisher": "Transactions on Machine Learning Research (TMLR)",
+      "releaseDate": "2024-03-10",
+      "url": "openreview.net/forum?id=w4DXLzBPPw",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "Git",
+        "C/C++",
+        "MATLAB"
       ]
+    },
+    {
+      "name": "Scientific Computing",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Tensor Decompositions",
+        "Tensor Networks",
+        "High-Dimensional Data",
+        "Optimal Experimental Design"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Communication",
+        "Teamwork",
+        "Problem-Solving",
+        "Critical Thinking",
+        "Time Management",
+        "Project Management",
+        "Adaptability"
+      ] 
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Turkish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,42 +186,43 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Scientific Machine Learning",
+        "AI4Science",
+        "Bayesian Inference"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Tensor Methods",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Tensor Networks",
+        "Tensor Decompositions",
+        "Tensor Train Format",
+        "Hierarchical Tucker Format",
+        "Incremental Algorithms"
+      ]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Computational Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Inverse Problems",
+        "Optimal Experimental Design",
+        "High-Dimensional Data",
+        "Parallel Algorithms"
+      ]
     }
   ]
 }

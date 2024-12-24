@@ -7,3 +7,10 @@
 
 "Vision":
   color: "#009f36"
+
+"SISC":
+  color: "#038177"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

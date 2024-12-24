@@ -32,3 +32,15 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"goroda":
+  - firstname: ["Alex"]
+    url: https://alexgorodetsky.com/
+
+"chenbri":
+  - firstname: ["Brian"]
+    url:
+
+"shravan":
+  - firstname: ["Shravan"]
+    url: 
